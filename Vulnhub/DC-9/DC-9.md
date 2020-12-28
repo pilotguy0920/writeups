@@ -15,3 +15,13 @@ Download Link: [DC-9](https://www.vulnhub.com/entry/dc-9,412/)
 ## Methodolgy
 
 - Recon
+    - ARP Scan
+    - Nmap
+
+- Enumeration
+
+- Exploitation
+
+- Post Exploitation
+
+- Privilege Escalation
